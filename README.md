@@ -1,23 +1,20 @@
 # sample-listing-app
 
-Description->
+# Description:
 
-Show product listing based on category filters
-Category filters are sticky based
-Api integration with react-redux and hooks
+1. Show product listing based on category filters
+2. Category filters are sticky based
+3. Api integration with react-redux and hooks
 
+# Technology:
 
-
-
-Technology->
-
-React-Native
-React-Redux(state management)
-Redux Saga(middleware)
-Axios
+1. React-Native
+2. React-Redux(state management)
+3. Redux Saga(middleware)
+4. Axios
 
 
-Commands to run the code
+# Commands to run the code:
 
-Yarn install
-yarn react-native run-ios
+1. Yarn install
+2. yarn react-native run-ios
